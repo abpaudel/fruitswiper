@@ -1,0 +1,298 @@
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\App.g.i.cs
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\App.g.cs
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\MainPage.g.i.cs
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\MainPage.g.cs
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\XamlTypeInfo.g.cs
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\App.xaml
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\App.xbf
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\XamlSaveStateFile.xml
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\MainPage.xaml
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\MainPage.xbf
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\App.xbf
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\MainPage.xbf
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\numbergame.exe
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\numbergame.pdb
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\resources.pri
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\AppxManifest.xml
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\bin\Debug\numbergame.build.appxrecipe
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\numbergame.exe
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\numbergame.pdb
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\priconfig.xml
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\priconfig.xml.intermediate
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\layout.resfiles
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\layout.resfiles.intermediate
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\resources.resfiles
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\resources.resfiles.intermediate
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\pri.resfiles
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\pri.resfiles.intermediate
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\qualifiers.txt
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\qualifiers.txt.intermediate
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Project WinDev\Lan Messanger\numbergame\numbergame\obj\Debug\ProjectArchitectures.txt
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\App.g.i.cs
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\App.g.cs
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\MainPage.g.i.cs
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\MainPage.g.cs
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\App.xaml
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\MainPage.xaml
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\App.xbf
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\MainPage.xbf
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\numbergame.exe
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\numbergame.pdb
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\App.xbf
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\MainPage.xbf
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\numbergame.exe
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\numbergame.pdb
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\resources.pri
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\AppxManifest.xml
+D:\Documents\winstore\numbergame\numbergame\bin\Debug\numbergame.build.appxrecipe
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\priconfig.xml
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\priconfig.xml.intermediate
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\layout.resfiles
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\layout.resfiles.intermediate
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\resources.resfiles
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\resources.resfiles.intermediate
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\pri.resfiles
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\pri.resfiles.intermediate
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\qualifiers.txt
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\winstore\numbergame\numbergame\obj\Debug\ProjectArchitectures.txt
+D:\Documents\winstore\gameX\numbergame\bin\Debug\App.xbf
+D:\Documents\winstore\gameX\numbergame\bin\Debug\MainPage.xbf
+D:\Documents\winstore\gameX\numbergame\bin\Debug\numbergame.exe
+D:\Documents\winstore\gameX\numbergame\bin\Debug\numbergame.pdb
+D:\Documents\winstore\gameX\numbergame\bin\Debug\resources.pri
+D:\Documents\winstore\gameX\numbergame\bin\Debug\AppxManifest.xml
+D:\Documents\winstore\gameX\numbergame\bin\Debug\numbergame.build.appxrecipe
+D:\Documents\winstore\gameX\numbergame\obj\Debug\App.g.i.cs
+D:\Documents\winstore\gameX\numbergame\obj\Debug\App.g.cs
+D:\Documents\winstore\gameX\numbergame\obj\Debug\MainPage.g.i.cs
+D:\Documents\winstore\gameX\numbergame\obj\Debug\MainPage.g.cs
+D:\Documents\winstore\gameX\numbergame\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\winstore\gameX\numbergame\obj\Debug\App.xaml
+D:\Documents\winstore\gameX\numbergame\obj\Debug\MainPage.xaml
+D:\Documents\winstore\gameX\numbergame\obj\Debug\App.xbf
+D:\Documents\winstore\gameX\numbergame\obj\Debug\MainPage.xbf
+D:\Documents\winstore\gameX\numbergame\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\winstore\gameX\numbergame\obj\Debug\numbergame.exe
+D:\Documents\winstore\gameX\numbergame\obj\Debug\numbergame.pdb
+D:\Documents\winstore\gameX\numbergame\obj\Debug\priconfig.xml
+D:\Documents\winstore\gameX\numbergame\obj\Debug\priconfig.xml.intermediate
+D:\Documents\winstore\gameX\numbergame\obj\Debug\layout.resfiles
+D:\Documents\winstore\gameX\numbergame\obj\Debug\layout.resfiles.intermediate
+D:\Documents\winstore\gameX\numbergame\obj\Debug\resources.resfiles
+D:\Documents\winstore\gameX\numbergame\obj\Debug\resources.resfiles.intermediate
+D:\Documents\winstore\gameX\numbergame\obj\Debug\pri.resfiles
+D:\Documents\winstore\gameX\numbergame\obj\Debug\pri.resfiles.intermediate
+D:\Documents\winstore\gameX\numbergame\obj\Debug\qualifiers.txt
+D:\Documents\winstore\gameX\numbergame\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\winstore\gameX\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\winstore\gameX\numbergame\obj\Debug\ProjectArchitectures.txt
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\App.xbf
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\MainPage.xbf
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\numbergame.exe
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\numbergame.pdb
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\resources.pri
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\AppxManifest.xml
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\numbergame.build.appxrecipe
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\App.g.i.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\App.g.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\MainPage.g.i.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\MainPage.g.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\XamlTypeInfo.g.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\App.xaml
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\App.xbf
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\XamlSaveStateFile.xml
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\MainPage.xaml
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\MainPage.xbf
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\numbergame.exe
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\numbergame.pdb
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\priconfig.xml
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\priconfig.xml.intermediate
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\layout.resfiles
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\layout.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\resources.resfiles
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\resources.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\pri.resfiles
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\pri.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\qualifiers.txt
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\qualifiers.txt.intermediate
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\ProjectArchitectures.txt
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\About.xbf
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\About.g.i.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\About.g.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\About.xaml
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\About.xbf
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\Help.g.i.cs
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\Help.g.cs
+D:\Project WinDev\my projects\gameX\numbergame\bin\Debug\Help.xbf
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\Help.xaml
+D:\Project WinDev\my projects\gameX\numbergame\obj\Debug\Help.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\App.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\About.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\Help.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\MainPage.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\numbergame.exe
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\numbergame.pdb
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\resources.pri
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\AppxManifest.xml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\bin\Debug\numbergame.build.appxrecipe
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\App.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\App.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\About.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\About.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\Help.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\Help.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\MainPage.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\MainPage.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\App.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\About.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\Help.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\MainPage.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\App.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\About.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\Help.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\MainPage.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\XamlSaveStateFile.xml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\numbergame.exe
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\numbergame.pdb
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\priconfig.xml
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\priconfig.xml.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\layout.resfiles
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\layout.resfiles.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\resources.resfiles
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\resources.resfiles.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\pri.resfiles
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\pri.resfiles.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\qualifiers.txt
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\qualifiers.txt.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\myheartswift\Desktop\FruitsSwiper\FruitsSwiper\numbergame\obj\Debug\ProjectArchitectures.txt
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\App.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\About.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\Help.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\MainPage.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\numbergame.exe
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\numbergame.pdb
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\resources.pri
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\AppxManifest.xml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\bin\Debug\numbergame.build.appxrecipe
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\App.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\App.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\About.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\About.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\Help.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\Help.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\MainPage.g.i.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\MainPage.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\App.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\About.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\Help.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\MainPage.xaml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\App.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\About.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\Help.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\MainPage.xbf
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\XamlSaveStateFile.xml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\numbergame.exe
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\numbergame.pdb
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\priconfig.xml
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\priconfig.xml.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\layout.resfiles
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\layout.resfiles.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\resources.resfiles
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\resources.resfiles.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\pri.resfiles
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\pri.resfiles.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\qualifiers.txt
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\qualifiers.txt.intermediate
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\myheartswift\Desktop\FruitsSwiper\numbergame\obj\Debug\ProjectArchitectures.txt
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\App.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\About.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\Help.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\MainPage.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\numbergame.exe
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\numbergame.pdb
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\resources.pri
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\AppxManifest.xml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\bin\Debug\numbergame.build.appxrecipe
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\App.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\App.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\About.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\About.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\Help.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\Help.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\MainPage.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\MainPage.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\XamlTypeInfo.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\App.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\About.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\Help.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\MainPage.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\App.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\About.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\Help.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\MainPage.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\XamlSaveStateFile.xml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\numbergame.exe
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\numbergame.pdb
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\priconfig.xml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\priconfig.xml.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\layout.resfiles
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\layout.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\resources.resfiles
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\resources.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\pri.resfiles
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\pri.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\qualifiers.txt
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\qualifiers.txt.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\FruitSwiper\numbergame\obj\Debug\ProjectArchitectures.txt
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\App.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\About.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\Help.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\MainPage.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\numbergame.exe
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\numbergame.pdb
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\resources.pri
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\AppxManifest.xml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\numbergame.build.appxrecipe
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\App.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\App.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\About.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\About.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\Help.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\Help.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\MainPage.g.i.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\MainPage.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\XamlTypeInfo.g.cs
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\App.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\About.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\Help.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\MainPage.xaml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\App.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\About.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\Help.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\MainPage.xbf
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\XamlSaveStateFile.xml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\numbergame.exe
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\numbergame.pdb
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\priconfig.xml
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\priconfig.xml.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\layout.resfiles
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\layout.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\resources.resfiles
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\resources.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\pri.resfiles
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\pri.resfiles.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\qualifiers.txt
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\qualifiers.txt.intermediate
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="numbergame.Help"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:numbergame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF851685">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="85*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Left" Height="78" Margin="103,18,0,0" TextWrapping="Wrap" Text="FruitSwiper : Help" VerticalAlignment="Top" Width="456" FontSize="50" Grid.RowSpan="2"/>
+        <TextBox HorizontalAlignment="Left" Height="616" Margin="162,34,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="1061" Background="#FF851685" Foreground="#FFE6D1D1" IsReadOnly="True" Text="About Game:&#xD;&#xA;&#xD;&#xA;Use arrow keys or onscreen keys to move the fruits on the board and try to match the same fruits. &#xD;&#xA;Each match increases your score according to level of game.&#xD;&#xA;Try to make a high score . " FontSize="20"/>
+        <Button x:ConnectionId='1' x:Name="backButton" Margin="38,25,0,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+        	Style="{StaticResource NavigationBackButtonNormalStyle}"
+        	VerticalAlignment="Top"
+        	AutomationProperties.Name="Back"
+        	AutomationProperties.AutomationId="BackButton"
+        	AutomationProperties.ItemType="Navigation Button"                         />
+
+    </Grid>
+</Page>
+

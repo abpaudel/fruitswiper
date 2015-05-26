@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUPER-PC</Machine>
+    <WindowsUser>ShadowsWalker</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>40a3bcb1-55b5-43ad-b7af-3b5d8ed2a4bf</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\numbergame.exe">
+      <PackagePath>numbergame.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\0.png">
+      <PackagePath>Assets\0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\back1.png">
+      <PackagePath>Assets\back1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\click.mp3">
+      <PackagePath>Assets\click.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\s1.mp3">
+      <PackagePath>Assets\s1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\Assets\swipe.MP3">
+      <PackagePath>Assets\swipe.MP3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\Help.xbf">
+      <PackagePath>Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project WinDev\my projects\gameX\FruitSwiper New\FruitSwiper\numbergame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="numbergame.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:numbergame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF851685">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="439*"/>
+            <ColumnDefinition Width="476*"/>
+            <ColumnDefinition Width="451*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="82*"/>
+            <RowDefinition Height="117*"/>
+            <RowDefinition Height="341*"/>
+            <RowDefinition Height="228*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Left" Height="62" Margin="138,10,0,0" TextWrapping="Wrap" Text="About Developers" VerticalAlignment="Top" Width="458" FontSize="50" Grid.ColumnSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="101,0,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30" Height="33" Width="243" Text="Abhishek Paudel"/>
+        <TextBlock HorizontalAlignment="Left" Margin="101,47,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="33" Width="243" Text="IOE, Pulchowk Campus"/>
+        <TextBlock HorizontalAlignment="Left" Margin="101,85,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="33" Width="243" Text="myheartswift@live.com"/>
+        <TextBlock HorizontalAlignment="Left" Margin="74,0,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30" Height="33" Width="243" Text="Dipesh Pandey" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="74,47,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="33" Width="243" Text="IOE, Pulchowk Campus" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="74,85,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="33" Width="279" Text="pandey.dipesh50@gmail.com" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="35,0,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30" Height="33" Width="243" Text="Nabin Bhattarai" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="35,47,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="33" Width="243" Text="IOE, Pulchowk Campus" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="35,85,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="33" Width="299" Grid.Column="2" Text="nbn.bhattarai99@hotmail.com"/>
+        <HyperlinkButton Content="blog.apaudel.com.np" HorizontalAlignment="Left" Height="39" Margin="74,111,0,0" Grid.Row="2" VerticalAlignment="Top" Width="191"/>
+        <Button x:Name="backButton" Margin="53,22,0,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+        	Style="{StaticResource NavigationBackButtonNormalStyle}"
+        	VerticalAlignment="Top"
+        	AutomationProperties.Name="Back"
+        	AutomationProperties.AutomationId="BackButton"
+        	AutomationProperties.ItemType="Navigation Button" Click="backButton_Click"/>
+
+    </Grid>
+</Page>
